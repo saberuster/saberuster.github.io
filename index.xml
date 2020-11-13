@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>saberuster 的博客</title>
+    <link>https://saberuster.github.io/</link>
+    <description>Recent content on saberuster 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
+    <webMaster>saberuster@gmail.com (saberuster)</webMaster>
+    <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 12:47:01 +0800</lastBuildDate>
+    
+        <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>使用hugo重建我的博客</title>
+        <link>https://saberuster.github.io/posts/my-first-post/</link>
+        <pubDate>Thu, 12 Nov 2020 12:47:01 +0800</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Thu, 12 Nov 2020 12:47:01 +0800</atom:modified>
+        <guid>https://saberuster.github.io/posts/my-first-post/</guid>
+        <description>前言 依稀记得上次折腾自己的博客还是2018年。后来感觉无非就是写博客展示出来，啥平台都可以啊。所以之后又在零零散散几个能写文章的平台（例如知</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>折腾日记</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
