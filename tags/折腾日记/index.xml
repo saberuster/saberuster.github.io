@@ -14,13 +14,45 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 07:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 18:38:20 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>在虚幻4中使用 Mixamo 的动画</title>
+        <link>https://saberuster.github.io/posts/ue4-01/</link>
+        <pubDate>Fri, 08 Jan 2021 18:38:20 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Fri, 08 Jan 2021 18:38:20 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/ue4-01/</guid>
+        <description>前言 作为虚幻4的白嫖党，Mixamo 一定是不能错过的。本篇文章总结了 Mixamo 中动画迁移到虚幻4项目中的知识点。 导入基础骨架 Mixamo 中动画的骨架和虚幻4小</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>折腾日记</category>
+            
+          
+            
+              <category>UE4</category>
+            
+          
+            
+              <category>动画</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>【Houdini Tips】给输入设置默认几何体</title>
