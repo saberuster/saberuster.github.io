@@ -14,13 +14,49 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Jan 2021 18:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 04:55:01 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>UE4 中一种 Blueprint&amp;C&#43;&#43; 统一化接口的小技巧</title>
+        <link>https://saberuster.github.io/posts/ue4-02/</link>
+        <pubDate>Tue, 02 Feb 2021 04:55:01 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Tue, 02 Feb 2021 04:55:01 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/ue4-02/</guid>
+        <description>问题描述 在ue4开发中本人之前一直有一种接口定义的困境，定义支持蓝图的接口吧在代码里用着不舒服，有点影响开发效率。定义只支持C++的接口吧蓝</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>折腾日记</category>
+            
+          
+            
+              <category>UE4</category>
+            
+          
+            
+              <category>动画</category>
+            
+          
+            
+              <category>C&#43;&#43;</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>在虚幻4中使用 Mixamo 的动画</title>
