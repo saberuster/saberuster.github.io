@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 04:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 11:56:26 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,38 @@
         
       
 
+      
+      <item>
+        <title>[Rust Std Trait] Default 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-01/</link>
+        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 14 Feb 2021 11:56:26 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-01/</guid>
+        <description>前言 本文致力于用最短的篇幅覆盖标准库中Default trait的主要知识点。 功能介绍 Default trait 可以用于定义类型的默认值。基础用法举例： 1 2 3 4 5 6</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>UE4 中一种 Blueprint&amp;C&#43;&#43; 统一化接口的小技巧</title>

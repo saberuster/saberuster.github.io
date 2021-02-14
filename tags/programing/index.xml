@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Programing on saberuster 的博客</title>
+    <link>https://saberuster.github.io/tags/programing/</link>
+    <description>Recent content in Programing on saberuster 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
+    <webMaster>saberuster@gmail.com (saberuster)</webMaster>
+    <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 14 Feb 2021 11:56:26 +0000</lastBuildDate>
+    
+        <atom:link href="https://saberuster.github.io/tags/programing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>[Rust Std Trait] Default 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-01/</link>
+        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 14 Feb 2021 11:56:26 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-01/</guid>
+        <description>前言 本文致力于用最短的篇幅覆盖标准库中Default trait的主要知识点。 功能介绍 Default trait 可以用于定义类型的默认值。基础用法举例： 1 2 3 4 5 6</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
