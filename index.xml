@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 14 Feb 2021 11:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 08:42:43 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,42 @@
         
       
 
+      
+      <item>
+        <title>[Rust Std Trait] (Partial)Ord/Eq 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-02/</link>
+        <pubDate>Mon, 15 Feb 2021 08:42:43 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Mon, 15 Feb 2021 08:42:43 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-02/</guid>
+        <description>前言 由于需要考虑全序关系（例如 Rust 浮点数中的 NaN），Rust 中有两套 trait 分别定义满足“全序”关系的 Ord/Eq 只能构成“偏序”关系的 PartialOrd</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+            
+              <category>Rust trait</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust Std Trait] Default 初见</title>

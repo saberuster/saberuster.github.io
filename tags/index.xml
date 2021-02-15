@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 14 Feb 2021 11:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 08:42:43 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>Programing</title>
         <link>https://saberuster.github.io/tags/programing/</link>
-        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <pubDate>Mon, 15 Feb 2021 08:42:43 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/programing/</guid>
@@ -43,7 +43,7 @@
       <item>
         <title>Rust</title>
         <link>https://saberuster.github.io/tags/rust/</link>
-        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <pubDate>Mon, 15 Feb 2021 08:42:43 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/rust/</guid>
@@ -61,10 +61,28 @@
       <item>
         <title>Rust Std</title>
         <link>https://saberuster.github.io/tags/rust-std/</link>
-        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <pubDate>Mon, 15 Feb 2021 08:42:43 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/rust-std/</guid>
+        <description></description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Rust trait</title>
+        <link>https://saberuster.github.io/tags/rust-trait/</link>
+        <pubDate>Mon, 15 Feb 2021 08:42:43 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        
+        <guid>https://saberuster.github.io/tags/rust-trait/</guid>
         <description></description>
         
         <dc:creator>saberuster</dc:creator>
