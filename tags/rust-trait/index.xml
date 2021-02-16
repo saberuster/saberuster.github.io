@@ -14,13 +14,49 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 08:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 17:14:28 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/rust-trait/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>[Rust Std Trait] Copy/Clone 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-03/</link>
+        <pubDate>Tue, 16 Feb 2021 17:14:28 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Tue, 16 Feb 2021 17:14:28 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-03/</guid>
+        <description>前言 Copy 作为能够影响编译器行为的 trait 对我们理解 Rust 基础有着重要作用，而 Clone 是我们作为搬砖工人能够自定义复制行为的 trait。本篇文章将会用最短的篇幅</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+            
+              <category>Rust trait</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust Std Trait] (Partial)Ord/Eq 初见</title>
@@ -30,6 +66,42 @@
         <atom:modified>Mon, 15 Feb 2021 08:42:43 +0000</atom:modified>
         <guid>https://saberuster.github.io/posts/rust-trait-02/</guid>
         <description>前言 由于需要考虑全序关系（例如 Rust 浮点数中的 NaN），Rust 中有两套 trait 分别定义满足“全序”关系的 Ord/Eq 只能构成“偏序”关系的 PartialOrd</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+            
+              <category>Rust trait</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>[Rust Std Trait] Default 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-01/</link>
+        <pubDate>Sun, 14 Feb 2021 11:56:26 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 14 Feb 2021 11:56:26 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-01/</guid>
+        <description>前言 本文致力于用最短的篇幅覆盖标准库中Default trait的主要知识点。 功能介绍 Default trait 可以用于定义类型的默认值。基础用法举例： 1 2 3 4 5 6</description>
         
         <dc:creator>saberuster</dc:creator>
         
