@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Feb 2021 03:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 20:19:17 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>[Rust Std Trait] std::marker 与 auto trait 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-08/</link>
+        <pubDate>Sun, 21 Feb 2021 20:19:17 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 21 Feb 2021 20:19:17 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-08/</guid>
+        <description>前言 在 Rust 的 std::maker 中有几个特殊的 trait，我们之前聊到的 Copy 就是其中一个，他们都是用来描述类型的内在属性，更多的是给编译器需要的额外信息。本篇作为</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust Std Trait] 类型转换 trait 初见（二）</title>
