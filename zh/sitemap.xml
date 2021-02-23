@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saberuster.github.io/posts/rust-trait-08/</loc>
-    <lastmod>2021-02-21T20:19:17+00:00</lastmod>
+    <loc>https://saberuster.github.io/posts/rust-trait-09/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/tags/programing/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/tags/rust/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/tags/rust-std/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/tags/rust-trait/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://saberuster.github.io/</loc>
-    <lastmod>2021-02-21T20:19:17+00:00</lastmod>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,7 +48,37 @@
   </url>
   
   <url>
+    <loc>https://saberuster.github.io/tags/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://saberuster.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://saberuster.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://saberuster.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://saberuster.github.io/posts/</loc>
+    <lastmod>2021-02-23T20:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/posts/rust-basic-01/</loc>
+    <lastmod>2021-02-23T15:56:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberuster.github.io/posts/rust-trait-08/</loc>
     <lastmod>2021-02-21T20:19:17+00:00</lastmod>
   </url>
   
@@ -55,46 +105,6 @@
   <url>
     <loc>https://saberuster.github.io/posts/rust-trait-03/</loc>
     <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberuster.github.io/tags/programing/</loc>
-    <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberuster.github.io/tags/rust/</loc>
-    <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberuster.github.io/tags/rust-std/</loc>
-    <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberuster.github.io/tags/rust-trait/</loc>
-    <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saberuster.github.io/tags/</loc>
-    <lastmod>2021-02-16T17:14:28+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://saberuster.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://saberuster.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://saberuster.github.io/tags/"
-                />
   </url>
   
   <url>

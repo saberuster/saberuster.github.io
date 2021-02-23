@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Feb 2021 20:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 20:30:25 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,74 @@
         
       
 
+      
+      <item>
+        <title>[Rust Std Trait] Iterator 初见</title>
+        <link>https://saberuster.github.io/posts/rust-trait-09/</link>
+        <pubDate>Tue, 23 Feb 2021 20:30:25 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Tue, 23 Feb 2021 20:30:25 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-trait-09/</guid>
+        <description>前言 迭代器是 Rust 中的重要功能之一，在 Rust 中迭代器指的是实现了 Iterator trait 的类型。本文以最短篇幅囊括迭代器的相关知识点。 实现 Interator 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+            
+              <category>Rust trait</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>[Rust 基础知识]mut 与可变性</title>
+        <link>https://saberuster.github.io/posts/rust-basic-01/</link>
+        <pubDate>Tue, 23 Feb 2021 15:56:10 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Tue, 23 Feb 2021 15:56:10 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-01/</guid>
+        <description>前言 本篇文章以最短的文字囊括 Rust 可变性的主要知识点。 声明可变变量 1 letmutx=5; 我们在理解它的时候需要把 mut x 理解为一个整体，所以我们在模式解构元组的时候会</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Std</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust Std Trait] std::marker 与 auto trait 初见</title>
