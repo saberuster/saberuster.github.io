@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Rust Edition Guide on saberuster 的博客</title>
+    <link>https://saberuster.github.io/tags/rust-edition-guide/</link>
+    <description>Recent content in Rust Edition Guide on saberuster 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
+    <webMaster>saberuster@gmail.com (saberuster)</webMaster>
+    <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 23 Feb 2021 16:00:30 +0000</lastBuildDate>
+    
+        <atom:link href="https://saberuster.github.io/tags/rust-edition-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>[Rust 基础知识]所有权与移动语义</title>
+        <link>https://saberuster.github.io/posts/rust-basic-02/</link>
+        <pubDate>Tue, 23 Feb 2021 16:00:30 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Tue, 23 Feb 2021 16:00:30 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-02/</guid>
+        <description>前言 本文以最短篇幅概述 Rust 所有权和移动语义的基础知识点。之后几篇都会是所有权和生命周期的文章，这里先把基础的点整理一下。 想解决的问题 思考以下场</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Edition Guide</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
