@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 23 Feb 2021 20:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 20:02:06 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,38 @@
         
       
 
+      
+      <item>
+        <title>[Rust 基础知识]借用与借用规则</title>
+        <link>https://saberuster.github.io/posts/rust-basic-03/</link>
+        <pubDate>Wed, 24 Feb 2021 20:02:06 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Wed, 24 Feb 2021 20:02:06 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-03/</guid>
+        <description>前言 本文以最短篇幅概括借用和借用规则的相关知识点。 借用 在 Rust 中，变量除了可以直接进行所有权转移，还可以借用。借用分为两种：只读借用（&amp;amp;</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Edition Guide</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust Std Trait] Iterator 初见</title>
