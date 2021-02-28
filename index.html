@@ -1328,9 +1328,9 @@
 <meta name="description" content="saberuster 的博客" />
 
 
-<meta name="created" content="2021-02-27T03:23:02&#43;0000">
-<meta name="modified" content="2021-02-27T03:23:02&#43;0000">
-<meta property="article:published_time" content="2021-02-27T03:23:02&#43;0000">
+<meta name="created" content="2021-02-28T02:53:16&#43;0000">
+<meta name="modified" content="2021-02-28T02:53:16&#43;0000">
+<meta property="article:published_time" content="2021-02-28T02:53:16&#43;0000">
 
 <meta name="author" content="saberuster">
 
@@ -1652,6 +1652,38 @@
             
             
             
+            
+                
+  <article class="summary-classic" data-ani="true">
+  <div class="summary-classic__flex-box" >
+
+    
+
+    <div class="summary-classic__content">
+      <header>
+        <h5 class="title h5"><a href='https://saberuster.github.io/posts/rust-basic-05/'>[Rust 基础知识]初探泛型</a> </h5>
+        <h6 class="subtitle caption">
+          <time title="创建日期" dir="ltr">📅&nbsp;2021年02月28日 </time>
+          
+          <span title="阅读时长" dir="ltr"> &middot; ☕&nbsp;1&nbsp;分钟 </span>
+          
+        </h6>
+      </header>
+      <div>
+        <div class="summary-classic__text p2">
+          
+            前言 本文囊括 Rust 中泛型的主要知识点。 泛型的一般形式 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 enum MyOption&lt;T&gt;{Some(T),None,}struct Num&lt;T=i32&gt;{data: Option&lt;T&gt;}fn test_fn&lt;T&gt;(param: T)-&gt; bool fntest_fn&lt;T,U&gt;(param: T,param2: U)-&gt; bool impl&lt;T,U&gt;Into&lt;U&gt;forTwhereU: From&lt;T&gt;{fn into(self)-&gt; U{U::from(self)}} 泛型参数约束 Rust 中有两种
+          
+        </div>
+      </div>
+    </div>
+
+    
+    
+  </div>
+  <hr />
+</article>
+
             
                 
   <article class="summary-classic" data-ani="true">
@@ -2037,38 +2069,6 @@
 </article>
 
             
-                
-  <article class="summary-classic" data-ani="true">
-  <div class="summary-classic__flex-box" >
-
-    
-
-    <div class="summary-classic__content">
-      <header>
-        <h5 class="title h5"><a href='https://saberuster.github.io/posts/rust-trait-01/'>[Rust Std Trait] Default 初见</a> </h5>
-        <h6 class="subtitle caption">
-          <time title="创建日期" dir="ltr">📅&nbsp;2021年02月14日 </time>
-          
-          <span title="阅读时长" dir="ltr"> &middot; ☕&nbsp;2&nbsp;分钟 </span>
-          
-        </h6>
-      </header>
-      <div>
-        <div class="summary-classic__text p2">
-          
-            前言 本文致力于用最短的篇幅覆盖标准库中Default trait的主要知识点。 功能介绍 Default trait 可以用于定义类型的默认值。基础用法举例： 1 2 3 4 5 6
-          
-        </div>
-      </div>
-    </div>
-
-    
-    
-  </div>
-  <hr />
-</article>
-
-            
             
 
 
@@ -2281,6 +2281,10 @@
             <ul class="sidebar-recent__ul">
                 
                     <li>
+                        <a href="/posts/rust-basic-05/" class="sidebar-recent__a p2">[Rust 基础知识]初探泛型</a>
+                    </li>
+                
+                    <li>
                         <a href="/posts/rust-basic-04/" class="sidebar-recent__a p2">[Rust 基础知识]初探生命周期标记</a>
                     </li>
                 
@@ -2294,10 +2298,6 @@
                 
                     <li>
                         <a href="/posts/rust-basic-02/" class="sidebar-recent__a p2">[Rust 基础知识]所有权与移动语义</a>
-                    </li>
-                
-                    <li>
-                        <a href="/posts/rust-basic-01/" class="sidebar-recent__a p2">[Rust 基础知识]mut 与可变性</a>
                     </li>
                 
             </ul>

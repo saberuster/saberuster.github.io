@@ -14,13 +14,31 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 27 Feb 2021 03:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 02:53:16 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>[Rust 基础知识]初探泛型</title>
+        <link>https://saberuster.github.io/posts/rust-basic-05/</link>
+        <pubDate>Sun, 28 Feb 2021 02:53:16 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 28 Feb 2021 02:53:16 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-05/</guid>
+        <description>前言 本文囊括 Rust 中泛型的主要知识点。 泛型的一般形式 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 enum MyOption&amp;lt;T&amp;gt;{Some(T),None,}struct Num&amp;lt;T=i32&amp;gt;{data: Option&amp;lt;T&amp;gt;}fn test_fn&amp;lt;T&amp;gt;(param: T)-&amp;gt; bool fntest_fn&amp;lt;T,U&amp;gt;(param: T,param2: U)-&amp;gt; bool impl&amp;lt;T,U&amp;gt;Into&amp;lt;U&amp;gt;forTwhereU: From&amp;lt;T&amp;gt;{fn into(self)-&amp;gt; U{U::from(self)}} 泛型参数约束 Rust 中有两种</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust 基础知识]初探生命周期标记</title>
