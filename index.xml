@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 02:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 07:39:50 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>[Rust 基础知识]模式解构</title>
+        <link>https://saberuster.github.io/posts/rust-basic-06/</link>
+        <pubDate>Sun, 28 Feb 2021 07:39:50 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 28 Feb 2021 07:39:50 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-06/</guid>
+        <description>前言 模式结构是写 Rust 代码中最常用到的设计。本文主要关注模式解构的相关知识点。 一般形式 模式解构可以用在： let 声明 函数和闭包的参数列表 match 表达式 if let 表</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>[Rust 基础知识]初探泛型</title>
