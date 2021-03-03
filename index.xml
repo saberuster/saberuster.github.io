@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 07:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 13:45:46 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,34 @@
 
       
       <item>
+        <title>[随笔]OpenRA 源码（一）Server 启动与主循环Tick</title>
+        <link>https://saberuster.github.io/notes/openra-01/</link>
+        <pubDate>Wed, 03 Mar 2021 13:45:46 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Wed, 03 Mar 2021 13:45:46 +0000</atom:modified>
+        <guid>https://saberuster.github.io/notes/openra-01/</guid>
+        <description>前言 最近听闻 Rust 社区要做 OpenRA 的 rust 版本，我也想借此机会提升一下自己在 Rust 和引擎架构上的知识。计划每天花一点点时间看一点源码，写写笔记。如果有机会混混</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>OpenRA</category>
+            
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Blender Basic 01</title>
         <link>https://saberuster.github.io/posts/blender-basic-01/</link>
         <pubDate>Wed, 03 Mar 2021 07:25:39 +0000</pubDate>
@@ -56,6 +84,38 @@
         
         
         
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>[Rust 基础知识]动态分派和静态分派</title>
+        <link>https://saberuster.github.io/posts/rust-basic-07/</link>
+        <pubDate>Mon, 01 Mar 2021 11:34:37 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Mon, 01 Mar 2021 11:34:37 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-07/</guid>
+        <description>前言 本文主要包含动态分派和静态分派的主要知识点。 静态分派 静态分派就是指程序具体调用哪个函数在编译阶段就能确定下来。Rust 中可以通过泛型和 impl</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Edition Guide</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
         
         
         
@@ -75,6 +135,20 @@
         
         
         
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Edition Guide</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
+        
         
         
       </item>
@@ -92,6 +166,20 @@
         
         
         
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>Rust Edition Guide</category>
+            
+          
+            
+              <category>Programing</category>
+            
+          
         
         
         

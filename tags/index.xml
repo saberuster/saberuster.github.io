@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 27 Feb 2021 03:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 13:45:46 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,45 @@
 
       
       <item>
+        <title>OpenRA</title>
+        <link>https://saberuster.github.io/tags/openra/</link>
+        <pubDate>Wed, 03 Mar 2021 13:45:46 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        
+        <guid>https://saberuster.github.io/tags/openra/</guid>
+        <description></description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>随笔</title>
+        <link>https://saberuster.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Wed, 03 Mar 2021 13:45:46 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        
+        <guid>https://saberuster.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+        <description></description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Programing</title>
         <link>https://saberuster.github.io/tags/programing/</link>
-        <pubDate>Sat, 27 Feb 2021 03:23:02 +0000</pubDate>
+        <pubDate>Mon, 01 Mar 2021 11:34:37 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/programing/</guid>
@@ -43,7 +79,7 @@
       <item>
         <title>Rust</title>
         <link>https://saberuster.github.io/tags/rust/</link>
-        <pubDate>Sat, 27 Feb 2021 03:23:02 +0000</pubDate>
+        <pubDate>Mon, 01 Mar 2021 11:34:37 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/rust/</guid>
@@ -61,7 +97,7 @@
       <item>
         <title>Rust Edition Guide</title>
         <link>https://saberuster.github.io/tags/rust-edition-guide/</link>
-        <pubDate>Sat, 27 Feb 2021 03:23:02 +0000</pubDate>
+        <pubDate>Mon, 01 Mar 2021 11:34:37 +0000</pubDate>
         <author>saberuster@gmail.com (saberuster)</author>
         
         <guid>https://saberuster.github.io/tags/rust-edition-guide/</guid>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>OpenRA on saberuster 的博客</title>
+    <link>https://saberuster.github.io/tags/openra/</link>
+    <description>Recent content in OpenRA on saberuster 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
+    <webMaster>saberuster@gmail.com (saberuster)</webMaster>
+    <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 03 Mar 2021 13:45:46 +0000</lastBuildDate>
+    
+        <atom:link href="https://saberuster.github.io/tags/openra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>[随笔]OpenRA 源码（一）Server 启动与主循环Tick</title>
+        <link>https://saberuster.github.io/notes/openra-01/</link>
+        <pubDate>Wed, 03 Mar 2021 13:45:46 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Wed, 03 Mar 2021 13:45:46 +0000</atom:modified>
+        <guid>https://saberuster.github.io/notes/openra-01/</guid>
+        <description>前言 最近听闻 Rust 社区要做 OpenRA 的 rust 版本，我也想借此机会提升一下自己在 Rust 和引擎架构上的知识。计划每天花一点点时间看一点源码，写写笔记。如果有机会混混</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>OpenRA</category>
+            
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
