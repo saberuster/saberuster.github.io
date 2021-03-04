@@ -90,6 +90,24 @@
       </item>
       
       <item>
+        <title>[Rust 基础知识]闭包</title>
+        <link>https://saberuster.github.io/posts/rust-basic-08/</link>
+        <pubDate>Mon, 01 Mar 2021 11:36:26 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Mon, 01 Mar 2021 11:36:26 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/rust-basic-08/</guid>
+        <description>前言 本文主要覆盖闭包的基础知识点。 基本语法 1 letadd=|a:i32,b:i32|-&amp;gt;i32 {returna+b;}; 闭包的返回值和参数类型是可以省略的： 1 letadd=|a,b|{returna+b;}; 和普通函数一样，最后的 return 也可以省略： 1 letadd=|a,b|{a+b}; 如果只有一条</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>[Rust 基础知识]动态分派和静态分派</title>
         <link>https://saberuster.github.io/posts/rust-basic-07/</link>
         <pubDate>Mon, 01 Mar 2021 11:34:37 +0000</pubDate>
