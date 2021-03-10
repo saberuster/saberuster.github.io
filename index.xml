@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 12:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 18:53:33 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>[Bevy 源码解析] ECS 基础</title>
+        <link>https://saberuster.github.io/notes/bevy-01/</link>
+        <pubDate>Wed, 10 Mar 2021 18:53:33 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Wed, 10 Mar 2021 18:53:33 +0000</atom:modified>
+        <guid>https://saberuster.github.io/notes/bevy-01/</guid>
+        <description>前言 ECS 系统数据的保存方式分为两种： 一种是像数据库一样，数据表结构作为 Entity 每个字段作为 Component，这种结构迭代数据比较快（要不人家数据库</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>【随笔】地球编年史(一)无尽的起源</title>
