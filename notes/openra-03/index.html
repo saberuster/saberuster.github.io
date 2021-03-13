@@ -1740,6 +1740,7 @@ ModelRenderer</p>
 <p>他们都是 Batch Renderer</p>
 <p>除了 Model 只有World 才有 其他都分为 World 和 Sprite 两套</p>
 <p>Renderer -&gt; 包含了 PlatformWindow 和 GriaphicsContext 还有 Window</p>
+<p>IRender 表示的具体物体</p>
 <h4 id="palette">Palette</h4>
 <p>调色板</p>
 <h4 id="renderercs-中接口定义">Renderer.cs 中接口定义</h4>
@@ -1755,11 +1756,35 @@ ModelRenderer</p>
 <li>Pallete.cs</li>
 <li>PaletteReference.cs</li>
 </ul>
-<h4 id="地图渲染">地图渲染</h4>
+<h4 id="游戏场景渲染">游戏场景渲染</h4>
 <ul>
-<li>WorldRenderer</li>
+<li>WorldRenderer 好像只渲染游戏场景，因为我发现在游戏加载和安装下载界面都不会运行</li>
 </ul>
+<p>WorldRenderer 在 StartGame 才会构造</p>
+<p>从 BeginWorld 开始<br />
+然后调用 Draw（）</p>
 <h4 id="sprite-渲染">Sprite 渲染</h4>
+<h4 id="shader-的输入">Shader 的输入</h4>
+<h4 id="游戏渲染流程整理">游戏渲染流程整理</h4>
+<p>游戏启动阶段:</p>
+<ul>
+<li>Game.InitializeAndRun()</li>
+<li>Run()</li>
+<li>Loop()</li>
+<li>RenderTick()</li>
+</ul>
+<p>渲染阶段：</p>
+<ul>
+<li>预备阶段</li>
+<li>场景渲染</li>
+<li>UI渲染</li>
+<li>渲染完毕 Flush 结果</li>
+</ul>
+<h4 id="建筑渲染举例">建筑渲染举例</h4>
+<p>具体建筑实现了 IRender</p>
+<p>Buildings.Bridge</p>
+<p>每个建筑会有一个 Template 列表，代表不同状态需要渲染的东西，在 Render 按需返回</p>
+<p>template ID 的对应关系在 tileset 中 用 Template@170 定义</p>
 
     </article>
     
@@ -2470,8 +2495,11 @@ document.addEventListener('DOMContentLoaded', function () {
             <li><a href="#renderercs-中接口定义">Renderer.cs 中接口定义</a></li>
             <li><a href="#模型相关">模型相关</a></li>
             <li><a href="#演示相关">演示相关</a></li>
-            <li><a href="#地图渲染">地图渲染</a></li>
+            <li><a href="#游戏场景渲染">游戏场景渲染</a></li>
             <li><a href="#sprite-渲染">Sprite 渲染</a></li>
+            <li><a href="#shader-的输入">Shader 的输入</a></li>
+            <li><a href="#游戏渲染流程整理">游戏渲染流程整理</a></li>
+            <li><a href="#建筑渲染举例">建筑渲染举例</a></li>
           </ul>
         </li>
       </ul>
