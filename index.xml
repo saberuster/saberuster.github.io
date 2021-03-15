@@ -14,7 +14,7 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 12 Mar 2021 21:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 20:02:59 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,66 @@
         
       
 
+      
+      <item>
+        <title>贴图精度问题的“一揽子”解决方案</title>
+        <link>https://saberuster.github.io/posts/unreal-use-01/</link>
+        <pubDate>Sun, 14 Mar 2021 20:02:59 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 14 Mar 2021 20:02:59 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/unreal-use-01/</guid>
+        <description>前言 本文主要是针对实时渲染的 3D 场景实践过程中贴图精度问题多种解决方案的整理。 遇到的问题 在 3D 场景中我们可以大概将物体分为 “远”，“中”，“近”</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>UE4</category>
+            
+          
+            
+              <category>3D美术</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>【随笔】地球编年史(三)天地众神</title>
+        <link>https://saberuster.github.io/notes/book01-03/</link>
+        <pubDate>Sat, 13 Mar 2021 00:43:34 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sat, 13 Mar 2021 00:43:34 +0000</atom:modified>
+        <guid>https://saberuster.github.io/notes/book01-03/</guid>
+        <description></description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>读书笔记</category>
+            
+          
+            
+              <category>随笔</category>
+            
+          
+            
+              <category>地球编年史</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>[随笔]OpenRA 网络层</title>

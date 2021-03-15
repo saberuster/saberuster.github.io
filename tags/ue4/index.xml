@@ -14,13 +14,41 @@
     <managingEditor>saberuster@gmail.com (saberuster)</managingEditor>
     <webMaster>saberuster@gmail.com (saberuster)</webMaster>
     <copyright>&amp;copy;{year} saberuster, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 04:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 20:02:59 +0000</lastBuildDate>
     
         <atom:link href="https://saberuster.github.io/tags/ue4/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>贴图精度问题的“一揽子”解决方案</title>
+        <link>https://saberuster.github.io/posts/unreal-use-01/</link>
+        <pubDate>Sun, 14 Mar 2021 20:02:59 +0000</pubDate>
+        <author>saberuster@gmail.com (saberuster)</author>
+        <atom:modified>Sun, 14 Mar 2021 20:02:59 +0000</atom:modified>
+        <guid>https://saberuster.github.io/posts/unreal-use-01/</guid>
+        <description>前言 本文主要是针对实时渲染的 3D 场景实践过程中贴图精度问题多种解决方案的整理。 遇到的问题 在 3D 场景中我们可以大概将物体分为 “远”，“中”，“近”</description>
+        
+        <dc:creator>saberuster</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>UE4</category>
+            
+          
+            
+              <category>3D美术</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>UE4 中一种 Blueprint&amp;C&#43;&#43; 统一化接口的小技巧</title>
